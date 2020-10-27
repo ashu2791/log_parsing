@@ -41,6 +41,5 @@ class Parser
 
 end
 
-
 Parser.new('data/parser.csv').execute
 
