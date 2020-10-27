@@ -9,10 +9,10 @@ Installation
   
  Execution: 
  # Main execution file Parser
- ruby parser.rb
+ ruby lib/parser.rb
  
  To run all test cases:
   rspec spec/*
   
-  To tun a specific test file:
+ To run a specific test file:
     rspec <path_to_test_file>
