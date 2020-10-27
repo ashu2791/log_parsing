@@ -1,0 +1,7 @@
+Method,URL,Min Time,Max Time,Average Time
+GET,/book/{id}/return,45,78,63.0
+GET,/book/{id},37,110,65.4
+PUT,/book/{id},20,234,98.57
+GET,/person/{id}/details,35,87,66.67
+GET,/person/all,60,102,86.67
+POST,/person/add,60,140,97.25
